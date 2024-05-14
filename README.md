@@ -1,4 +1,4 @@
-This project has been developed with ThreeJs and React openAI Dalle integration.
+This project has been developed with ThreeJs and React OpenAI Dalle integration.
 
 To run this code,
 * Download the zip file.
